@@ -18,4 +18,8 @@ Murphy LIWC (version 1).xlsx
 Trump LIWC.xlsx
 
 The following Excel files are the Google Mobility Report data(I did not gather these numbers) for each politician's respective region:
-
+ct_gmr.csv
+nj_gmr.csv
+ny_gmr.csv
+nyc_gmr.csv
+us_gmr.csv
