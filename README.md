@@ -47,5 +47,7 @@ us_gmr.csv
 
 The last two Word documents outline my findings on the weekly sentiment and LIWC for each politician:
 
+Sentiment Analysis Findings.docx
 
+LIWC Findings.docx
 
