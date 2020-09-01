@@ -1,5 +1,19 @@
 # Tri-State-Area-Politician-Coronavirus-Twitter-Response
 
+#NEW 9.1.2020
+The following CSV files include the Twitter Tweet data for each politician:
+
+cuomo_tweets.csv
+
+murphy_tweets.csv
+
+lamont_tweets.csv
+
+deblasio_tweets.csv
+
+trump_tweets.csv
+
+
 The following files are Python code that gathers Tweet sentiment and LIWC data for each politician:
 
 Tweet Sentiment (Cuomo).py
